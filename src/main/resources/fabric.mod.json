@@ -3,7 +3,7 @@
 	"id": "sg-bedrock",
 	"version": "${version}",
 	"name": "SG Bedrock",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Use right click on bedrock using dragon's breath to destroy it",
 	"authors": [
 		"ArielM24"
 	],
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/sg-bedrock/icon.png",
+	"icon": "assets/sg-bedrock/sg-bedrock.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
